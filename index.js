@@ -31,6 +31,17 @@ module.exports = {
     quotes: [2, 'single'],
     strict: ['error', 'global'],
     'comma-dangle': ['warn', 'always-multiline'],
+    "no-process-exit": "warn",
+    "node/no-deprecated-api": "warn",
+    "node/no-extraneous-require": "warn",
+    "node/no-missing-require": "warn",
+    "node/no-unpublished-bin": "warn",
+    "node/no-unpublished-require": "warn",
+    "node/no-unsupported-features/es-builtins": "warn",
+    "node/no-unsupported-features/es-syntax": "warn",
+    "node/no-unsupported-features/node-builtins": "warn",
+    "node/process-exit-as-throw": "warn",
+    "node/shebang": "error"
   },
   parserOptions: {
     ecmaVersion: 2018,
