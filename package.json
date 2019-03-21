@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-relayr",
+  "version": "1.0.0",
+  "description": "eslint config for relayr",
+  "main": "index.js",
+  "keywords": [
+    "relayr",
+    "eslint",
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waleedashraf/eslint-config-relayr.git"
+  },
+  "author": "relayr",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.15.3",
+    "eslint-config-google": "^0.12.0",
+    "eslint-plugin-node": "^8.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/waleedashraf/eslint-config-relayr/issues"
+  },
+  "homepage": "https://github.com/waleedashraf/eslint-config-relayr#readme"
+}
