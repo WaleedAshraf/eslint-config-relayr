@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-relayr",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "eslint config for relayr",
   "main": "index.js",
   "keywords": [
@@ -16,8 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "eslint": "^5.15.3",
-    "eslint-config-google": "^0.12.0",
-    "eslint-plugin-node": "^8.0.1"
+    "eslint-config-google": "^0.12.0"
   },
   "bugs": {
     "url": "https://github.com/waleedashraf/eslint-config-relayr/issues"
